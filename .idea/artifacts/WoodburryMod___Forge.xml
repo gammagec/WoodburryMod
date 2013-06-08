@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WoodburryMod &gt; Forge">
+    <output-path>$USER_HOME$/Development/forge/mcp/jars/mods</output-path>
+    <root id="archive" name="WoodburryMod _ Forge.jar">
+      <element id="module-output" name="WoodburryMod" />
+    </root>
+  </artifact>
+</component>

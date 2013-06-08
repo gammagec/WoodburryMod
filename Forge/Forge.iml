@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Development/forge/mcp/src/minecraft">
+      <sourceFolder url="file://$USER_HOME$/Development/forge/mcp/src/minecraft" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Development/forge/mcp/jars/bin/jinput.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Development/forge/mcp/jars/bin/lwjgl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Development/forge/mcp/jars/bin/lwjgl_util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Development/forge/mcp/jars/bin/minecraft.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="net.sourceforge.argo:argo:3.2" level="project" />
+    <orderEntry type="library" name="org.ow2.asm:asm-all:4.1" level="project" />
+    <orderEntry type="library" name="org.bouncycastle:bcprov-jdk15on:1.48" level="project" />
+    <orderEntry type="library" name="com.google.guava:guava:14.0-rc3" level="project" />
+  </component>
+</module>
+
